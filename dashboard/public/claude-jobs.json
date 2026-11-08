@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T09:28:56.632742+00:00",
+  "lastUpdated": "2026-11-08T09:46:00.873394+00:00",
   "totalJobs": 474,
   "sources": [
     "Anthropic",
@@ -10,6 +10,56 @@
     "RemoteOK"
   ],
   "jobs": [
+    {
+      "id": "gr-hook-8922828002",
+      "company": "Hook",
+      "position": "Principal Engineer  -- Full-Stack TypeScript (Node.js, React, Cloud)",
+      "location": "Remote",
+      "locations": [
+        "Remote"
+      ],
+      "remote": true,
+      "salary": "",
+      "description": "WHO WE ARE We're Hook, an award-winning creative content agency. With a collaborative, maker-centric team, and an emphasis on production-led design, we make ads, campaigns, and experiences that drive growth for the world's most innovative brands. Our mission is to integrate creative and production...",
+      "applyUrl": "https://job-boards.greenhouse.io/hook/jobs/8922828002",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/hook/jobs/8922828002",
+      "postedAt": "2026-11-07T15:53:15-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "GCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "anth-5444482008",
+      "company": "Anthropic",
+      "position": "Manager, Applied AI Architecture, Enterprise Tech",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "As the manager of the Solutions Architect team within Applied AI Enterprise Tech at Anthropic, you will drive the adoption of frontier AI in partnership with the rest of the go to market organization. Our Enterprise Tech customers are some of the world's most sophisticated technology companies,...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5444482008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5444482008",
+      "postedAt": "2026-11-07T12:22:35-05:00",
+      "tags": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "le-provectus-92ccf747-e1a2-48b8-b0b5-9f8503480dc5",
       "company": "Provectus",
@@ -3398,19 +3448,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-affirm-7829429003",
+      "id": "gr-affirm-7829427003",
       "company": "Affirm",
       "position": "Staff Software Engineer, Mobile (App Infrastructure)",
-      "location": "Remote Canada",
+      "location": "Remote US",
       "locations": [
-        "Remote Canada"
+        "Remote US"
       ],
       "remote": true,
-      "salary": "$181,000 - $241,000",
+      "salary": "$230,000 - $290,000",
       "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. App Infrastructure is the team behind Affirm's shared mobile app infrastructure — the platform every other mobile...",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
       "postedAt": "2026-10-30T17:15:12-04:00",
       "tags": [
         "Claude Code",
@@ -3644,19 +3694,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-7917475",
+      "id": "gr-samsara-8281483",
       "company": "Samsara",
       "position": "Senior AI Data & Analytics Engineer II",
-      "location": "Remote - SF Bay Area",
+      "location": "Remote - CA",
       "locations": [
-        "Remote - SF Bay Area"
+        "Remote - CA"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8281483?gh_jid=8281483",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281483?gh_jid=8281483",
       "postedAt": "2026-10-30T11:22:26-04:00",
       "tags": [
         "Claude Code",
@@ -4709,35 +4759,6 @@
         "Cursor",
         "Copilot",
         "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-hook-8922828002",
-      "company": "Hook",
-      "position": "Principal Engineer  -- Full-Stack TypeScript (Node.js, React, Cloud)",
-      "location": "Remote",
-      "locations": [
-        "Remote"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "WHO WE ARE We're Hook, an award-winning creative content agency. With a collaborative, maker-centric team, and an emphasis on production-led design, we make ads, campaigns, and experiences that drive growth for the world's most innovative brands. Our mission is to integrate creative and production...",
-      "applyUrl": "https://job-boards.greenhouse.io/hook/jobs/8922828002",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/hook/jobs/8922828002",
-      "postedAt": "2026-10-28T18:58:08-04:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Node.js",
-        "PostgreSQL",
-        "AWS",
-        "GCP"
       ],
       "companyIcon": ""
     },
@@ -7757,27 +7778,6 @@
         "Cursor"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5444482008",
-      "company": "Anthropic",
-      "position": "Manager, Applied AI Architecture, Enterprise Tech",
-      "location": "San Francisco, CA",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "As the manager of the Solutions Architect team within Applied AI Enterprise Tech at Anthropic, you will drive the adoption of frontier AI in partnership with the rest of the go to market organization. Our Enterprise Tech customers are some of the world's most sophisticated technology companies,...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5444482008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5444482008",
-      "postedAt": "2026-10-13T13:11:31-04:00",
-      "tags": [
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "gr-asana-7964388",
