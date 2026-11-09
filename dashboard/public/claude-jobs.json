@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T09:46:00.873394+00:00",
-  "totalJobs": 474,
+  "lastUpdated": "2026-11-09T10:43:48.912086+00:00",
+  "totalJobs": 473,
   "sources": [
     "Anthropic",
     "Ashby",
@@ -10,6 +10,27 @@
     "RemoteOK"
   ],
   "jobs": [
+    {
+      "id": "as-harvey-21031616-e7b7-420a-a5b6-6c7006e55989",
+      "company": "Harvey",
+      "position": "Technical CX Specialist, EMEA",
+      "location": "Dublin",
+      "locations": [
+        "Dublin"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "WHY HARVEY\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a...",
+      "applyUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
+      "source": "Ashby",
+      "sourceUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
+      "postedAt": "2026-11-09T09:43:25.146+00:00",
+      "tags": [
+        "Claude Code",
+        "MCP"
+      ],
+      "companyIcon": "https://harvey.ai/favicon.ico"
+    },
     {
       "id": "gr-hook-8922828002",
       "company": "Hook",
@@ -1263,27 +1284,6 @@
       "companyIcon": "https://fivetran.com/favicon.ico"
     },
     {
-      "id": "as-harvey-21031616-e7b7-420a-a5b6-6c7006e55989",
-      "company": "Harvey",
-      "position": "Technical CX Specialist, EMEA",
-      "location": "Dublin",
-      "locations": [
-        "Dublin"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "WHY HARVEY\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a...",
-      "applyUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
-      "source": "Ashby",
-      "sourceUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
-      "postedAt": "2026-11-05T08:57:20.409+00:00",
-      "tags": [
-        "Claude Code",
-        "MCP"
-      ],
-      "companyIcon": "https://harvey.ai/favicon.ico"
-    },
-    {
       "id": "gr-grafanalabs-6092955004",
       "company": "Grafana Labs",
       "position": "Staff AI Engineer | USA | Remote",
@@ -2430,19 +2430,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-fivetran-7865559003",
+      "id": "gr-fivetran-7865591003",
       "company": "Fivetran",
       "position": "Senior Software Engineer, Metadata",
-      "location": "Denver, Colorado, United States, AMER",
+      "location": "Oakland, California, United States",
       "locations": [
-        "Denver, Colorado, United States, AMER"
+        "Oakland, California, United States"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7865559003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7865591003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7865559003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7865591003",
       "postedAt": "2026-11-03T11:35:48-05:00",
       "tags": [
         "Claude Code",
@@ -2593,31 +2593,6 @@
         "AWS"
       ],
       "companyIcon": "https://monzo.com/favicon.ico"
-    },
-    {
-      "id": "gr-kimchi-4425607009",
-      "company": "Kimchi",
-      "position": "Sales Engineer | Kimchi | EMEA",
-      "location": "EMEA · European Union",
-      "locations": [
-        "EMEA",
-        "European Union"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Why Kimchi? Kimchi is the enterprise AI coding platform from Cast AI , the automation company behind cloud-native infrastructure optimization for 2,100+ organizations, including Akamai, BMW, Cisco, and HuggingFace. We took six years of autonomous-infrastructure engineering and pointed it at how...",
-      "applyUrl": "https://job-boards.greenhouse.io/kimchi/jobs/4425607009",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/kimchi/jobs/4425607009",
-      "postedAt": "2026-11-03T04:56:39-05:00",
-      "tags": [
-        "Claude Code",
-        "Kubernetes",
-        "Cursor",
-        "Copilot",
-        "MCP"
-      ],
-      "companyIcon": ""
     },
     {
       "id": "as-temporal-dfa01032-82b4-443f-bfdc-1a20bd976b9c",
@@ -2934,19 +2909,19 @@
       "companyIcon": "https://fivetran.com/favicon.ico"
     },
     {
-      "id": "gr-fivetran-7823195003",
+      "id": "gr-fivetran-7865037003",
       "company": "Fivetran",
       "position": "Engineering Manager, Metadata",
-      "location": "Denver, Colorado, United States, AMER",
+      "location": "Toronto, Ontario, Canada",
       "locations": [
-        "Denver, Colorado, United States, AMER"
+        "Toronto, Ontario, Canada"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7865037003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7865037003",
       "postedAt": "2026-11-02T14:51:30-05:00",
       "tags": [
         "Claude Code",
@@ -3694,19 +3669,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-8281483",
+      "id": "gr-samsara-8281482",
       "company": "Samsara",
       "position": "Senior AI Data & Analytics Engineer II",
-      "location": "Remote - CA",
+      "location": "Remote - Dallas",
       "locations": [
-        "Remote - CA"
+        "Remote - Dallas"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8281483?gh_jid=8281483",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8281482?gh_jid=8281482",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281483?gh_jid=8281483",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281482?gh_jid=8281482",
       "postedAt": "2026-10-30T11:22:26-04:00",
       "tags": [
         "Claude Code",
@@ -5066,7 +5041,7 @@
         "Burnaby"
       ],
       "remote": false,
-      "salary": "CA$25 – CA$28 per hour",
+      "salary": "CA$20 per hour",
       "description": "🎨 OpusClip https://www.opus.pro is the world's No.1 AI video agent, built for authenticity on social media.\n\nWe envision a world where everyone can authentically share their story through video, with no expertise needed. Within just 18 months of our launch, over 20 million creators and businesses...",
       "applyUrl": "https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818",
       "source": "Ashby",
